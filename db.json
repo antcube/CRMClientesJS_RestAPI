@@ -1,0 +1,32 @@
+{
+  "clientes": [
+    {
+      "id": "2c4a",
+      "nombre": "Toto",
+      "email": "aqr885@gmail.com",
+      "telefono": "987654321",
+      "empresa": "Inka Cola xd"
+    },
+    {
+      "id": "77ba",
+      "nombre": "Mattias",
+      "email": "eliane14j_g634z@vixej.com",
+      "telefono": "987987987",
+      "empresa": "Coca Colaa"
+    },
+    {
+      "id": "beb2",
+      "nombre": "Anthony",
+      "email": "amari31e_p484y@tigpe.com",
+      "telefono": "987987987",
+      "empresa": "empresa"
+    },
+    {
+      "nombre": "Fabrizzio",
+      "email": "faby@msn.com",
+      "telefono": "987654320",
+      "empresa": "Inka Cola",
+      "id": "408c"
+    }
+  ]
+}
